@@ -62,5 +62,37 @@ python main.py
 
 ---
 
+## 🛠️ Technologies Used
+
+| Technology | Version | Purpose |
+|---|---|---|
+| Python | 3.10+ | Main programming language |
+| `datetime` | Built-in | Creation and delivery timestamps |
+| `uuid` | Built-in | Automatic unique ID generation |
+| `os` | Built-in | File system management |
+
+---
+
+## 📁 Project Structure
+
+```
+QuickDeliver_BF/
+│
+├── main.py           → Entry point — launches the app and runs the main menu loop
+├── models.py         → All classes : Person, Client, Courier, Parcel, Delivery
+├── menu.py           → User interaction functions (input handling, display)
+├── file_handler.py   → File read and write functions
+├── utils.py          → Utility functions (validation, search, formatting)
+│
+├── deliveries.txt    → Auto-generated — stores all delivery records
+├── report.txt        → Auto-generated — statistical report of all deliveries
+│
+└── README.md         → Project documentation
+```
+
+> 💡 The `.txt` files are created automatically by the program the first time
+> data is saved. You do not need to create them manually.
+
+
 
 
