@@ -110,9 +110,9 @@ def display_all_clients(clients: list):
 
 
 
-# =============================================================================
+ 
 # COURIER FUNCTIONS — coded by Ezekiel 
-# =============================================================================
+
 
 
 def input_courier(courier: list) -> Courier:
