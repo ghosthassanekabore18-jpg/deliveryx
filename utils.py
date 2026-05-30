@@ -1,4 +1,4 @@
-#Code by NiMATOU
+#Coded by NIMATOU
 
 #utils.py — Utility functions (validation, formatting, search)
 
