@@ -1,7 +1,7 @@
 #QuickDeliver_BF — DELIVERY MANAGEMENT SYSTEM
 #Module — file_handler.py
 #file_handler.py goal — File read and write functions
-#coded by: Jeanine
+#coded by Jeanine
 
 
 
